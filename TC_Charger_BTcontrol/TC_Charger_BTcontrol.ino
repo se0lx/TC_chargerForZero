@@ -59,7 +59,12 @@
 
 
 
-
+// version en cour de devlopement 
+// TODO
+// - gestion de demarrage differer a une heure programmer
+// - debug communication CAN charger
+// - debug communication CAN Zero
+// -
 
 
 #include <Adafruit_ADS1X15.h>

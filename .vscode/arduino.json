@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "TC_Charger_BTcontrol\\TC_Charger_BTcontrol.ino"
+}
