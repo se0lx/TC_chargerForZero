@@ -1,2 +1,2 @@
 # TC_chargerForZero
- Can Zero and Tc charger connection control by bluethooth
+ Can Zero and Tc charger bluethooth connection control android app  
